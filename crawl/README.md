@@ -1,0 +1,1 @@
+> scrapy crawl names -o names.csv
